@@ -1,7 +1,7 @@
 # Інтернет
 Деякі шпаргалки по HTTP/QUIC та інше...
 
-![400G Ethernet.jpg](https://github.com/IRONKAGE/Internet/blob/master/image/400G%20Ethernet.jpg)
+<img align="center" src="https://github.com/IRONKAGE/Internet/blob/master/image/400G%20Ethernet.jpg">
 
 <img align="center" src="https://github.com/IRONKAGE/Internet/tree/master/image/Connecrion.png">
 
