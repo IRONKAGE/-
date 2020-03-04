@@ -1,1 +1,2 @@
+*.gitattributes linguist-language=gitattributes
 *.jpg linguist-detectable=true
